@@ -1,0 +1,19 @@
+{
+  "name": "zombie-halo",
+  "version": "0.5.0",
+  "description": "Experimental SH companion app",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "node-ble": "^1.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.3.0",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}

@@ -1,0 +1,13 @@
+node_modules
+.DS_Store
+.env
+yarn.lock
+logs/*
+emails/*
+tmp/*
+config/localhost.*
+data/bootstrap
+*.backup
+.vscode
+old
+.env-bk
